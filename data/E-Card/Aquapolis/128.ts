@@ -3,6 +3,7 @@ import Set from '../Aquapolis'
 
 const card: Card = {
 	name: {
+		en: "Memory Berry", // missing language causing the card to not appear in english sets
 		de: "Memory Berry",
 		fr: "Baie de mémoire"
 	},
